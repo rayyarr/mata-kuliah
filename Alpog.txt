@@ -1,0 +1,6 @@
+Tipe data
+Variabel
+Percabangan
+Perulangan
+Sub Program
+Array
